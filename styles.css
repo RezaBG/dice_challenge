@@ -1,0 +1,39 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  margin: 30px;
+  font-family: "Schoolbell", cursive;
+  font-size: 3rem;
+  color: #2b56ef;
+}
+
+p {
+  font-size: 2rem;
+  color: #e82d20;
+  font-family: "Schoolbell", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+
+font-family: "Josefin Sans", sans-serif;
+font-family: "Mochiy Pop One", sans-serif;
+font-family: "Schoolbell", cursive;
+font-family: "Sono", sans-serif;
